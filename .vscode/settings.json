@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "stdlib.h": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "ostream": "c",
+        "iostream": "cpp",
+        "random": "c"
+    }
+}
